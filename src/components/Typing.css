@@ -1,0 +1,21 @@
+.main {
+    margin: auto;
+}
+
+.button {
+    margin-top: 9%;
+    font-size: 40px;
+    background-color: #fff;
+    border: none;
+}
+
+
+
+.background {
+    width: 80%;
+    height: 600px;
+}
+
+button:hover {
+    cursor: pointer;
+}
